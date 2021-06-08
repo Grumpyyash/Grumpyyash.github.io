@@ -44,6 +44,7 @@ const skillsSection = {
       "Open Source ❤️"
     ),
     emoji("Full-Stack Applications with hands on Native Development 🚀"),
+    emoji("Competitive Programming 🚀"),
     emoji(
       "Javascript >>>>> Python 🎯"
     )
@@ -100,7 +101,7 @@ const educationInfo = {
   schools: [
     {
       schoolName: "IIT(ISM) Dhanbad",
-      logo: require("./assets/images/ISM_logo.png"),
+      logo: require("./assets/images/ism-logo.png"),
       subHeader: "Integrated Master of Technology in Mathematics and Computing",
       duration: "July 2019 - Present",
       desc: "CGPA: 9.34"
