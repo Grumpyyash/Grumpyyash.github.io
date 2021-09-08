@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "421e1b7d7bed065d75bcea1ba506112f",
+    "revision": "e4a93ccdcbac147e3584aced11aac0f4",
     "url": "/index.html"
   },
   {
-    "revision": "268f39c8867c4ff9b70e",
-    "url": "/static/css/3.bc85b1b3.chunk.css"
+    "revision": "de8dc88f6ca3646661cd",
+    "url": "/static/css/3.1d6a8db2.chunk.css"
   },
   {
-    "revision": "46334e95c4930741fb98",
-    "url": "/static/css/4.5c57288c.chunk.css"
+    "revision": "84306ab3237765061b41",
+    "url": "/static/css/4.a049d726.chunk.css"
   },
   {
-    "revision": "50cf98f0e36ec6cd29b1",
-    "url": "/static/css/main.4a5fb2b4.chunk.css"
+    "revision": "0418cc841dfb356a3d39",
+    "url": "/static/css/main.684bf4e8.chunk.css"
   },
   {
-    "revision": "4681da365652c619a6b0",
-    "url": "/static/js/2.d72936a3.chunk.js"
+    "revision": "a4148f3d32223c791c73",
+    "url": "/static/js/2.7eb7643d.chunk.js"
   },
   {
-    "revision": "6e1d2efc12a1ac972ff1f942df7eb0bd",
-    "url": "/static/js/2.d72936a3.chunk.js.LICENSE.txt"
+    "revision": "b9941b26ce7f87a25d1a3bc0d5ae97bc",
+    "url": "/static/js/2.7eb7643d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "268f39c8867c4ff9b70e",
-    "url": "/static/js/3.30836ff3.chunk.js"
+    "revision": "de8dc88f6ca3646661cd",
+    "url": "/static/js/3.c0435387.chunk.js"
   },
   {
-    "revision": "46334e95c4930741fb98",
-    "url": "/static/js/4.ec130423.chunk.js"
+    "revision": "84306ab3237765061b41",
+    "url": "/static/js/4.2b8399b9.chunk.js"
   },
   {
-    "revision": "50cf98f0e36ec6cd29b1",
-    "url": "/static/js/main.ee229b03.chunk.js"
+    "revision": "0418cc841dfb356a3d39",
+    "url": "/static/js/main.92b354f0.chunk.js"
   },
   {
-    "revision": "dba6ca34bd031c5e3cfe",
-    "url": "/static/js/runtime-main.0f15a812.js"
+    "revision": "4f04d1c3d0cb3f06d1e0",
+    "url": "/static/js/runtime-main.8b7f38d1.js"
   },
   {
     "revision": "a3752c4bf72688b3db38d0911cf75f61",
@@ -98,9 +98,5 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3440939881da8339d1597e8d77cdf850",
     "url": "/static/media/skill.34409398.svg"
-  },
-  {
-    "revision": "13780cdd0144cacdef25486e2c2503f8",
-    "url": "/static/media/talksCardBack.13780cdd.svg"
   }
 ]);
